@@ -1,2 +1,2 @@
-# css_flexbox
-CSS Flexbox
+# CSS Flexbox
+Learning CSS Flexbox
